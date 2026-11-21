@@ -1,25 +1,24 @@
-# ⚡ Avtandil Kikabidze
-**Principal Software Architect | Open Source Maintainer**
+# Avtandil Kikabidze
 
-I engineer high-availability, enterprise-grade systems and orchestrate zero-downtime DevOps pipelines across multi-node clusters. With 15 years of experience, I specialize in modernizing legacy infrastructure and delivering scalable, AI-enhanced solutions for national institutions and enterprise clients.
+**Chief Software Engineer and Software Architect** · Tbilisi, Georgia (country)
 
-### 🚀 What I Do
-- **Architecture:** Designing distributed architectures capable of handling 3M+ daily hits and 100M+ database rows.
-- **AI & Automation:** Integrating Retrieval-Augmented Generation (RAG) and multi-agent AI ecosystems for enterprise knowledge retrieval.
-- **DevOps & IaC:** Orchestrating immutable cloud infrastructure (Terraform, Ansible) and zero-downtime CI/CD pipelines.
-- **Open Source:** Creator and maintainer of highly adopted developer tools utilized by engineers globally.
+I build and run the software that universities and national institutions work on, create open-source developer tools, and engineer with AI agents. In software engineering since 2009; writing code since 2007.
 
-### 🛠️ Technical Arsenal
-**Architecture & DevOps:** `AWS` `DigitalOcean` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` 
+### Open source
 
-**Backend & AI:** `PHP (Laravel/Symfony)` `Python (Django)` `LLMs & RAG` `ElasticSearch` `PostgreSQL` `MySQL`
+- [PHP Telegram Bot](https://github.com/php-telegram-bot/core), a PHP library for Telegram's Bot API. I created it in 2015 and administer the project: more than 2.4 million installs and more than 4,000 stars.
+- [CodeFormatter](https://github.com/akalongman/sublimetext-codeformatter), [AutoBackups](https://github.com/akalongman/sublimetext-autobackups) and [StringUtilities](https://github.com/akalongman/sublimetext-stringutilities), plugins for the Sublime Text editor: more than 380,000 installs.
+- [IPTools](https://github.com/akalongman/php-ip-tools), [Laravel Lodash](https://github.com/akalongman/laravel-lodash), [Laravel Multilang](https://github.com/akalongman/laravel-multilang) and other PHP packages. All twelve of my PHP packages together, the Telegram library among them: more than 2.8 million installs.
+- 56 changes merged into 47 other public projects since 2013, among them Laravel, Monolog, Carbon and PHPMailer.
 
-**Observability:** `Grafana` `InfluxDB` `Loki` `Telegraf`
+### Tools for AI agents
 
-### 🏆 Featured Open Source
-* [**PHP Telegram Bot**]([link-to-repo](https://github.com/php-telegram-bot)) - A highly adopted PHP library based on the official Telegram Bot API.
-* [**Laravel Lodash**]([link-to-repo](https://github.com/akalongman/laravel-lodash)) - Package to add useful functionality in Laravel.
-* [**Sublime Text Plugins**]([link-to-repo](https://github.com/akalongman/sublimetext-codeformatter)) - Creator of widely used workflow plugins including AutoBackups and CodeFormatter.
+- [nbg-rates-mcp](https://github.com/akalongman/nbg-rates-mcp) gives AI agents the official exchange rates of the National Bank of Georgia.
+- [claude-plugins](https://github.com/akalongman/claude-plugins): plugins for the coding agent Claude Code.
+- [universal-ai-reviewer](https://github.com/akalongman/universal-ai-reviewer): a code reviewer that works with several AI models.
 
----
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/akalongman/) | 📧 [akalongman@gmail.com](mailto:akalongman@gmail.com)
+### Work
+
+Chief Software Engineer at Tbilisi State Medical University, Senior Software Engineer (part time) at SOCAR Georgia Petroleum, and consulting software architect. The full CV is at [longman.me/cv](https://longman.me/cv/).
+
+[longman.me](https://longman.me) · [LinkedIn](https://linkedin.com/in/akalongman) · akalongman@gmail.com
