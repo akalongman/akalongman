@@ -19,6 +19,6 @@ I build and run the software that universities and national institutions work on
 
 ### Work
 
-Chief Software Engineer at Tbilisi State Medical University, Senior Software Engineer (part time) at SOCAR Georgia Petroleum, and consulting software architect. The full CV is at [longman.me/cv](https://longman.me/cv/).
+Chief Software Engineer at Tbilisi State Medical University, Senior Software Engineer (part time) at BMS Applications, for SOCAR Georgia Petroleum, and consulting software architect. The full CV is at [longman.me/cv](https://longman.me/cv/).
 
 [longman.me](https://longman.me) · [LinkedIn](https://linkedin.com/in/akalongman) · akalongman@gmail.com
